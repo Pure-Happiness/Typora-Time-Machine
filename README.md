@@ -1,6 +1,6 @@
 # Typora Time Machine
 
-Solve the Error “This beta version of Typora is expired, please download and install a newer version.” when starting typora.
+Solve the Error "This beta version of Typora is expired, please download and install a newer version." when starting typora.
 
 解决打开Typora时出现的错误：“This beta version of Typora is expired, please download and install a newer version.”。
 
