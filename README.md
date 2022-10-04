@@ -9,3 +9,7 @@ Solve the Error “This beta version of Typora is expired, please download and i
 To download the last free version 0.11.18, please visit https://github.com/Pure-Happiness/Typora-0.11.18.
 
 请访问 https://github.com/Pure-Happiness/Typora-0.11.18 下载最后的免费版本0.11.18。
+
+Please note that This program can work only if you are the administrator, because it needs to change your system time temporarily.
+
+请注意只有管理员才能运行此程序，因为它要暂时更改系统时间。
